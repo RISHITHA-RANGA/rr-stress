@@ -1,6 +1,7 @@
 ### Stress Level Detector
 
-![home](https://user-images.githubusercontent.com/64016811/199025266-69551658-cd50-40ec-a5d1-6ec5e26c5037.png)
+![image](https://github.com/RISHITHA-RANGA/rr-stress/assets/123916357/c4a928b1-6bc1-4068-ac48-8561344e20a9)
+
 
 
 
