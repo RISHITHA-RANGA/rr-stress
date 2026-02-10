@@ -6,8 +6,7 @@ Hoiii from sahi
 
 ![image](https://github.com/RISHITHA-RANGA/rr-stress/assets/123916357/c4a928b1-6bc1-4068-ac48-8561344e20a9)
 
-
-
+Rishitha hi
 
 ### Problem : 
 
