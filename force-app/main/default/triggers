@@ -1,4 +1,5 @@
 trigger testTrigger on Account (before insert) {
     //this is a test trigger
     //test2
+    //test3
 }
